@@ -1,0 +1,6 @@
+openai==0.27.0  # To interface with OpenAI's GPT-3
+tkinter==8.6  # For the GUI
+numpy==1.22.3  # For numerical operations if needed
+pandas==1.4.1  # For data manipulation if needed
+beautifulsoup4==4.10.0  # For parsing HTML content from emails
+requests==2.27.1  # To make HTTP requests if needed
